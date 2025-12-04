@@ -103,6 +103,45 @@ export const translations = {
       teamDesc:
         "Contamos con profesionales especializados en IA, automatización, desarrollo web y estrategia digital. Cada miembro aporta experiencia única para entregar soluciones excepcionales.",
     },
+    footer: {
+      description: "Soluciones de IA y automatización para empresas modernas",
+      services: "Servicios",
+      company: "Empresa",
+      contact: "Contacto",
+      copyright: "Todos los derechos reservados.",
+      privacy: "Política de Privacidad",
+      terms: "Términos y Condiciones",
+    },
+    privacy: {
+      title: "Política de Privacidad",
+      lastUpdated: "Última actualización: Diciembre 2024",
+      intro:
+        "En Shupptime, tu privacidad es fundamental para nosotros. Esta Política de Privacidad explica cómo recopilamos, usamos, divulgamos y salvaguardamos tu información.",
+      section1Title: "1. Información que Recopilamos",
+      section1:
+        "Recopilamos información que nos proporcionas directamente, como nombre, correo electrónico, número de teléfono y detalles sobre tu empresa cuando completas formularios en nuestro sitio. También recopilamos información automáticamente sobre cómo interactúas con nuestro sitio, incluyendo dirección IP, tipo de navegador, páginas visitadas y tiempo de permanencia.",
+      section2Title: "2. Cómo Usamos Tu Información",
+      section2:
+        "Utilizamos tu información para proporcionar, mantener y mejorar nuestros servicios; responder a tus consultas y solicitudes; enviar comunicaciones de marketing (si lo autorizas); cumplir con obligaciones legales; y prevenir fraude.",
+      section3Title: "3. Compartir de Información",
+      section3:
+        "No vendemos, intercambiamos ni alquilamos tu información personal a terceros sin tu consentimiento. Solo compartimos información con proveedores de servicios confiables que nos ayudan a operar nuestro sitio y ofrecer servicios, bajo acuerdos de confidencialidad.",
+      section4Title: "4. Seguridad de Datos",
+      section4:
+        "Implementamos medidas de seguridad técnicas, administrativas y físicas para proteger tu información personal contra acceso no autorizado, alteración, divulgación o destrucción.",
+      section5Title: "5. Tus Derechos",
+      section5:
+        "Tienes derecho a acceder, rectificar, actualizar o eliminar tu información personal. Puedes ejercer estos derechos contactándonos en info@shupptime.com.",
+      section6Title: "6. Cambios en Esta Política",
+      section6:
+        "Nos reservamos el derecho de modificar esta Política de Privacidad en cualquier momento. Los cambios serán efectivos cuando se publiquen en el sitio.",
+      section7Title: "7. Contacto",
+      section7: "Si tienes preguntas sobre esta Política de Privacidad, contáctanos en info@shupptime.com",
+    },
+    terms: {
+      title: "Términos y Condiciones",
+      lastUpdated: "Última actualización: Diciembre 2024",
+    },
   },
   en: {
     nav: {
@@ -208,6 +247,45 @@ export const translations = {
       teamDesc:
         "We have professionals specialized in AI, automation, web development and digital strategy. Each member brings unique experience to deliver exceptional solutions.",
     },
+    footer: {
+      description: "AI and automation solutions for modern businesses",
+      services: "Services",
+      company: "Company",
+      contact: "Contact",
+      copyright: "All rights reserved.",
+      privacy: "Privacy Policy",
+      terms: "Terms and Conditions",
+    },
+    privacy: {
+      title: "Privacy Policy",
+      lastUpdated: "Last Updated: December 2024",
+      intro:
+        "At Shupptime, your privacy is fundamental to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information.",
+      section1Title: "1. Information We Collect",
+      section1:
+        "We collect information you directly provide to us, such as name, email address, phone number, and business details when you complete forms on our site. We also automatically collect information about how you interact with our site, including IP address, browser type, pages visited, and time spent.",
+      section2Title: "2. How We Use Your Information",
+      section2:
+        "We use your information to provide, maintain, and improve our services; respond to your inquiries and requests; send marketing communications (if authorized); comply with legal obligations; and prevent fraud.",
+      section3Title: "3. Information Sharing",
+      section3:
+        "We do not sell, trade, or rent your personal information to third parties without your consent. We only share information with trusted service providers who help us operate our site and provide services, under confidentiality agreements.",
+      section4Title: "4. Data Security",
+      section4:
+        "We implement technical, administrative, and physical security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction.",
+      section5Title: "5. Your Rights",
+      section5:
+        "You have the right to access, correct, update, or delete your personal information. You can exercise these rights by contacting us at info@shupptime.com.",
+      section6Title: "6. Changes to This Policy",
+      section6:
+        "We reserve the right to modify this Privacy Policy at any time. Changes will be effective when posted on the site.",
+      section7Title: "7. Contact",
+      section7: "If you have questions about this Privacy Policy, contact us at info@shupptime.com",
+    },
+    terms: {
+      title: "Terms and Conditions",
+      lastUpdated: "Last Updated: December 2024",
+    },
   },
   it: {
     nav: {
@@ -312,6 +390,45 @@ export const translations = {
       team: "Il Nostro Team",
       teamDesc:
         "Abbiamo professionisti specializzati in IA, automazione, sviluppo web e strategia digitale. Ogni membro porta esperienza unica per fornire soluzioni eccezionali.",
+    },
+    footer: {
+      description: "Soluzioni IA e automazione per aziende moderne",
+      services: "Servizi",
+      company: "Azienda",
+      contact: "Contatti",
+      copyright: "Tutti i diritti riservati.",
+      privacy: "Politica sulla Privacy",
+      terms: "Termini e Condizioni",
+    },
+    privacy: {
+      title: "Politica sulla Privacy",
+      lastUpdated: "Ultimo aggiornamento: Dicembre 2024",
+      intro:
+        "In Shupptime, la tua privacy è fondamentale per noi. Questa Politica sulla Privacy spiega come raccogliamo, utilizziamo, divulghiamo e salvaguardiamo le tue informazioni.",
+      section1Title: "1. Informazioni che Raccogliamo",
+      section1:
+        "Raccogliamo informazioni che ci fornisci direttamente, come nome, indirizzo email, numero di telefono e dettagli aziendali quando completi moduli sul nostro sito. Raccogliamo anche automaticamente informazioni su come interagisci con il nostro sito, inclusi indirizzo IP, tipo di browser, pagine visitate e tempo trascorso.",
+      section2Title: "2. Come Utilizziamo le Tue Informazioni",
+      section2:
+        "Utilizziamo le tue informazioni per fornire, mantenere e migliorare i nostri servizi; rispondere alle tue richieste; inviare comunicazioni di marketing (se autorizzato); rispettare gli obblighi legali; e prevenire le frodi.",
+      section3Title: "3. Condivisione delle Informazioni",
+      section3:
+        "Non vendiamo, scambiamo o affittiamo le tue informazioni personali a terzi senza il tuo consenso. Condividiamo informazioni solo con fornitori di servizi affidabili che ci aiutano a gestire il nostro sito e fornire servizi, secondo accordi di riservatezza.",
+      section4Title: "4. Sicurezza dei Dati",
+      section4:
+        "Implementiamo misure di sicurezza tecniche, amministrative e fisiche per proteggere le tue informazioni personali da accesso non autorizzato, alterazione, divulgazione o distruzione.",
+      section5Title: "5. I Tuoi Diritti",
+      section5:
+        "Hai il diritto di accedere, correggere, aggiornare o eliminare le tue informazioni personali. Puoi esercitare questi diritti contattandoci a info@shupptime.com.",
+      section6Title: "6. Modifiche a Questa Politica",
+      section6:
+        "Ci riserviamo il diritto di modificare questa Politica sulla Privacy in qualsiasi momento. Le modifiche avranno effetto quando pubblicate sul sito.",
+      section7Title: "7. Contatti",
+      section7: "Se hai domande su questa Politica sulla Privacy, contattaci a info@shupptime.com",
+    },
+    terms: {
+      title: "Termini e Condizioni",
+      lastUpdated: "Ultimo aggiornamento: Dicembre 2024",
     },
   },
 }

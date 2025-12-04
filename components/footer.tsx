@@ -64,7 +64,7 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="#" className="hover:text-accent transition-colors">
+                <Link href="/privacy-policy" className="hover:text-accent transition-colors">
                   {t("footer.privacy")}
                 </Link>
               </li>
@@ -94,10 +94,10 @@ export function Footer() {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-sidebar-foreground/70">
             <p>&copy; 2025 Shupptime. {t("footer.copyright")}</p>
             <div className="flex gap-6">
-              <Link href="#" className="hover:text-accent transition-colors">
+              <Link href="/privacy-policy" className="hover:text-accent transition-colors">
                 {t("footer.privacy")}
               </Link>
-              <Link href="#" className="hover:text-accent transition-colors">
+              <Link href="/terms-of-service" className="hover:text-accent transition-colors">
                 {t("footer.terms")}
               </Link>
             </div>
